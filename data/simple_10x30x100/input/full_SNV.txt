@@ -1,0 +1,10 @@
+chr0_synth0000.gz
+chr0_synth0001.gz
+chr0_synth0002.gz
+chr0_synth0003.gz
+chr0_synth0004.gz
+chr0_synth0005.gz
+chr0_synth0006.gz
+chr0_synth0007.gz
+chr0_synth0008.gz
+chr0_synth0009.gz

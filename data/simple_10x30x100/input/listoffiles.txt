@@ -1,0 +1,15 @@
+chr0_synth0000-chr0_synth0000
+chr0_synth0000-chr0_synth0001
+chr0_synth0000-chr0_synth0002
+chr0_synth0000-chr0_synth0003
+chr0_synth0000-chr0_synth0004
+chr0_synth0001-chr0_synth0001
+chr0_synth0001-chr0_synth0002
+chr0_synth0001-chr0_synth0003
+chr0_synth0001-chr0_synth0004
+chr0_synth0002-chr0_synth0002
+chr0_synth0002-chr0_synth0003
+chr0_synth0002-chr0_synth0004
+chr0_synth0003-chr0_synth0003
+chr0_synth0003-chr0_synth0004
+chr0_synth0004-chr0_synth0004
